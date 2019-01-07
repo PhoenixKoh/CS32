@@ -1,2 +1,2 @@
 # CS32
-UCLA winter 2018 CS 32
+UCLA CS32 (Professor Smallberg, Winter 2018)
